@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" > "\\\\'\"Best School\"\'\\\$\?\\\\\*:)"
+echo 'echo "Hello, World"' > 0-hello_world
