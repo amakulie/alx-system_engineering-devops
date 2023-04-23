@@ -1,1 +1,3 @@
-https configuration load balance and  HAproxy to automatically redirect HTTP traffic to HTTPS.
+# HTTPS SSL
+
+In this project, I learned about the importance of HTTPS and how it works
